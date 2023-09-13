@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-👋Soy estudiante de la Licenciatura en Ciencias de Datos en busqueda de nuevos retos<br>🌱Actualmente, estoy enfocada en fortalecer mis habilidades en SQL y Python, R y Power BI
+👋Soy estudiante de la Licenciatura en Ciencias de Datos en busqueda laboral<br>🌱Actualmente, estoy enfocada en fortalecer mis habilidades en SQL y Python, R y Power BI
 
 
 ## 🌐 Socials:
