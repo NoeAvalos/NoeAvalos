@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there!  👋
 
 <!--
 **NoeAvalos/NoeAvalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 💫 About Me:
-👋Soy estudiante de la Licenciatura en Ciencias de Datos en busqueda laboral<br>🌱Actualmente, estoy enfocada en fortalecer mis habilidades en SQL y Python, R y Power BI
+# 💫 About Me - Sobre Mi:
+👋I'm a Data Science student looking for job opportunities.<br>🌱Currently, I'm focused on enhancing my skills in SQL, Python, R, and Power BI.<br>👋Soy estudiante de la Licenciatura en Ciencias de Datos en busqueda laboral<br>🌱Actualmente, estoy enfocada en fortalecer mis habilidades en SQL y Python, R y Power BI
 
 
 ## 🌐 Socials:
